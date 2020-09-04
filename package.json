@@ -27,7 +27,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^21.2.1",
     "mockdate": "^2.0.5",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "per-env": "^1.0.2",
     "preact-cli": "^2.1.0",
     "preact-cli-plugin-fast-async": "^1.0.1",
